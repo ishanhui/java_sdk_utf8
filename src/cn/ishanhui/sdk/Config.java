@@ -21,9 +21,9 @@ public class Config {
 
 	/**
 	 *  生产环境网关地址：https://api.ishanhui.cn
-	 *  测试环境网关地址：https://test.api.ishanhui.cn
+	 *  测试环境网关地址：http://test-api.tpddns.cn:81
 	 */
-	public static final String SERVICE_URL = "https://test.api.ishanhui.cn";
+	public static final String SERVICE_URL = "http://test-api.tpddns.cn:81";
 
 	// 商户服务器地址
 	public static final String PARTNER_URL = "http://127.0.0.1:92/sdk_java_utf8";
